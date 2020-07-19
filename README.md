@@ -1,4 +1,4 @@
-# Airport-Management-System-Terminal-Base-Project
+# Airport-Management-System-GUI-Base-Project
 It is a group project (Group 10) of CSE222 course of Gebze Technical University.
 
 ## HOW GUI WORKS ==>
